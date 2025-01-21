@@ -1,4 +1,4 @@
-# RISC_V-pipeline
+# RISC_V Pipeline
 
 
 5-Stages RISC_V Pipeline
